@@ -1,0 +1,6 @@
+C:\Users\henrique_domareski\projetos\ProgrammingInCSharp\Exceptions\bin\Debug\Exceptions.exe.config
+C:\Users\henrique_domareski\projetos\ProgrammingInCSharp\Exceptions\bin\Debug\Exceptions.exe
+C:\Users\henrique_domareski\projetos\ProgrammingInCSharp\Exceptions\bin\Debug\Exceptions.pdb
+C:\Users\henrique_domareski\projetos\ProgrammingInCSharp\Exceptions\obj\Debug\Exceptions.csprojResolveAssemblyReference.cache
+C:\Users\henrique_domareski\projetos\ProgrammingInCSharp\Exceptions\obj\Debug\Exceptions.exe
+C:\Users\henrique_domareski\projetos\ProgrammingInCSharp\Exceptions\obj\Debug\Exceptions.pdb
