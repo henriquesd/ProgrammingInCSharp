@@ -1,0 +1,5 @@
+C:\Users\henrique_domareski\projetos\ProgrammingInCSharp\StringBuilderExample\bin\Debug\StringBuilderExample.exe.config
+C:\Users\henrique_domareski\projetos\ProgrammingInCSharp\StringBuilderExample\bin\Debug\StringBuilderExample.exe
+C:\Users\henrique_domareski\projetos\ProgrammingInCSharp\StringBuilderExample\bin\Debug\StringBuilderExample.pdb
+C:\Users\henrique_domareski\projetos\ProgrammingInCSharp\StringBuilderExample\obj\Debug\StringBuilderExample.exe
+C:\Users\henrique_domareski\projetos\ProgrammingInCSharp\StringBuilderExample\obj\Debug\StringBuilderExample.pdb
