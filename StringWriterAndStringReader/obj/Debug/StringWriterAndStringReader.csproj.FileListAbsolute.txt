@@ -1,0 +1,6 @@
+C:\Users\Henrique\source\repos\ProgrammingInCSharp\StringWriterAndStringReader\bin\Debug\StringWriterAndStringReader.exe.config
+C:\Users\Henrique\source\repos\ProgrammingInCSharp\StringWriterAndStringReader\bin\Debug\StringWriterAndStringReader.exe
+C:\Users\Henrique\source\repos\ProgrammingInCSharp\StringWriterAndStringReader\bin\Debug\StringWriterAndStringReader.pdb
+C:\Users\Henrique\source\repos\ProgrammingInCSharp\StringWriterAndStringReader\obj\Debug\StringWriterAndStringReader.csprojResolveAssemblyReference.cache
+C:\Users\Henrique\source\repos\ProgrammingInCSharp\StringWriterAndStringReader\obj\Debug\StringWriterAndStringReader.exe
+C:\Users\Henrique\source\repos\ProgrammingInCSharp\StringWriterAndStringReader\obj\Debug\StringWriterAndStringReader.pdb

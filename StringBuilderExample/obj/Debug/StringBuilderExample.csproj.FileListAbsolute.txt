@@ -3,3 +3,6 @@ C:\Users\henrique_domareski\projetos\ProgrammingInCSharp\StringBuilderExample\bi
 C:\Users\henrique_domareski\projetos\ProgrammingInCSharp\StringBuilderExample\bin\Debug\StringBuilderExample.pdb
 C:\Users\henrique_domareski\projetos\ProgrammingInCSharp\StringBuilderExample\obj\Debug\StringBuilderExample.exe
 C:\Users\henrique_domareski\projetos\ProgrammingInCSharp\StringBuilderExample\obj\Debug\StringBuilderExample.pdb
+C:\Users\Henrique\source\repos\ProgrammingInCSharp\StringBuilderExample\bin\Debug\StringBuilderExample.exe.config
+C:\Users\Henrique\source\repos\ProgrammingInCSharp\StringBuilderExample\obj\Debug\StringBuilderExample.exe
+C:\Users\Henrique\source\repos\ProgrammingInCSharp\StringBuilderExample\obj\Debug\StringBuilderExample.pdb
