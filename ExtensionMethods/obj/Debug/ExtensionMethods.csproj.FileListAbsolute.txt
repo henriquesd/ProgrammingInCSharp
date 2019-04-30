@@ -1,0 +1,6 @@
+C:\Users\Henrique\source\repos\teste\ProgrammingInCSharp\ExtensionMethods\bin\Debug\ExtensionMethods.exe.config
+C:\Users\Henrique\source\repos\teste\ProgrammingInCSharp\ExtensionMethods\bin\Debug\ExtensionMethods.exe
+C:\Users\Henrique\source\repos\teste\ProgrammingInCSharp\ExtensionMethods\bin\Debug\ExtensionMethods.pdb
+C:\Users\Henrique\source\repos\teste\ProgrammingInCSharp\ExtensionMethods\obj\Debug\ExtensionMethods.csprojResolveAssemblyReference.cache
+C:\Users\Henrique\source\repos\teste\ProgrammingInCSharp\ExtensionMethods\obj\Debug\ExtensionMethods.exe
+C:\Users\Henrique\source\repos\teste\ProgrammingInCSharp\ExtensionMethods\obj\Debug\ExtensionMethods.pdb
