@@ -1,6 +1,0 @@
-C:\Users\henrique_domareski\projetos\ProgrammingInCSharp\CollectionsAndArrays\bin\Debug\CollectionsAndArrays.exe.config
-C:\Users\henrique_domareski\projetos\ProgrammingInCSharp\CollectionsAndArrays\bin\Debug\CollectionsAndArrays.exe
-C:\Users\henrique_domareski\projetos\ProgrammingInCSharp\CollectionsAndArrays\bin\Debug\CollectionsAndArrays.pdb
-C:\Users\henrique_domareski\projetos\ProgrammingInCSharp\CollectionsAndArrays\obj\Debug\CollectionsAndArrays.csprojResolveAssemblyReference.cache
-C:\Users\henrique_domareski\projetos\ProgrammingInCSharp\CollectionsAndArrays\obj\Debug\CollectionsAndArrays.exe
-C:\Users\henrique_domareski\projetos\ProgrammingInCSharp\CollectionsAndArrays\obj\Debug\CollectionsAndArrays.pdb

@@ -4,9 +4,3 @@ c:\users\henrique_domareski\documents\visual studio 2015\Projects\ProgrammingInC
 c:\users\henrique_domareski\documents\visual studio 2015\Projects\ProgrammingInCSharp\ValueAndReferenceTypes\obj\Debug\ValueAndReferenceTypes.csprojResolveAssemblyReference.cache
 c:\users\henrique_domareski\documents\visual studio 2015\Projects\ProgrammingInCSharp\ValueAndReferenceTypes\obj\Debug\ValueAndReferenceTypes.exe
 c:\users\henrique_domareski\documents\visual studio 2015\Projects\ProgrammingInCSharp\ValueAndReferenceTypes\obj\Debug\ValueAndReferenceTypes.pdb
-C:\Users\henrique_domareski\projetos\ProgrammingInCSharp\ValueAndReferenceTypes\bin\Debug\ValueAndReferenceTypes.exe.config
-C:\Users\henrique_domareski\projetos\ProgrammingInCSharp\ValueAndReferenceTypes\obj\Debug\ValueAndReferenceTypes.exe
-C:\Users\henrique_domareski\projetos\ProgrammingInCSharp\ValueAndReferenceTypes\obj\Debug\ValueAndReferenceTypes.pdb
-C:\Users\henrique_domareski\projetos\ProgrammingInCSharp\ValueAndReferenceTypes\bin\Debug\ValueAndReferenceTypes.exe
-C:\Users\henrique_domareski\projetos\ProgrammingInCSharp\ValueAndReferenceTypes\bin\Debug\ValueAndReferenceTypes.pdb
-C:\Users\henrique_domareski\projetos\ProgrammingInCSharp\ValueAndReferenceTypes\obj\Debug\ValueAndReferenceTypes.csprojResolveAssemblyReference.cache
