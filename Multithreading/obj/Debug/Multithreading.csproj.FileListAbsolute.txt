@@ -1,0 +1,5 @@
+C:\Users\Henrique\source\repos\ProgrammingInCSharp\Multithreading\bin\Debug\Multithreading.exe.config
+C:\Users\Henrique\source\repos\ProgrammingInCSharp\Multithreading\bin\Debug\Multithreading.exe
+C:\Users\Henrique\source\repos\ProgrammingInCSharp\Multithreading\bin\Debug\Multithreading.pdb
+C:\Users\Henrique\source\repos\ProgrammingInCSharp\Multithreading\obj\Debug\Multithreading.exe
+C:\Users\Henrique\source\repos\ProgrammingInCSharp\Multithreading\obj\Debug\Multithreading.pdb

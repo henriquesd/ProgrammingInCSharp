@@ -4,3 +4,6 @@ C:\Users\henrique_domareski\projetos\ProgrammingInCSharp\AsyncAndAwait\bin\Debug
 C:\Users\henrique_domareski\projetos\ProgrammingInCSharp\AsyncAndAwait\bin\Debug\AsyncAndAwait.pdb
 C:\Users\henrique_domareski\projetos\ProgrammingInCSharp\AsyncAndAwait\obj\Debug\AsyncAndAwait.exe
 C:\Users\henrique_domareski\projetos\ProgrammingInCSharp\AsyncAndAwait\obj\Debug\AsyncAndAwait.pdb
+C:\Users\Henrique\source\repos\ProgrammingInCSharp\AsyncAndAwait\bin\Debug\AsyncAndAwait.exe.config
+C:\Users\Henrique\source\repos\ProgrammingInCSharp\AsyncAndAwait\obj\Debug\AsyncAndAwait.exe
+C:\Users\Henrique\source\repos\ProgrammingInCSharp\AsyncAndAwait\obj\Debug\AsyncAndAwait.pdb
