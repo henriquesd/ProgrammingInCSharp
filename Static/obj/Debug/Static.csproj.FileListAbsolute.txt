@@ -4,3 +4,6 @@ C:\Users\Henrique\source\repos\ProgrammingInCSharp\ProgrammingInCSharp\Static\bi
 C:\Users\Henrique\source\repos\ProgrammingInCSharp\ProgrammingInCSharp\Static\obj\Debug\Static.csprojResolveAssemblyReference.cache
 C:\Users\Henrique\source\repos\ProgrammingInCSharp\ProgrammingInCSharp\Static\obj\Debug\Static.exe
 C:\Users\Henrique\source\repos\ProgrammingInCSharp\ProgrammingInCSharp\Static\obj\Debug\Static.pdb
+C:\Users\henrique_domareski\projetos\ProgrammingInCSharp\Static\bin\Debug\Static.exe.config
+C:\Users\henrique_domareski\projetos\ProgrammingInCSharp\Static\obj\Debug\Static.exe
+C:\Users\henrique_domareski\projetos\ProgrammingInCSharp\Static\obj\Debug\Static.pdb
