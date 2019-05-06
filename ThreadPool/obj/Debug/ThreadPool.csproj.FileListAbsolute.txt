@@ -3,3 +3,6 @@ C:\Users\Henrique\source\repos\ProgrammingInCSharp\ThreadPool\bin\Debug\ThreadPo
 C:\Users\Henrique\source\repos\ProgrammingInCSharp\ThreadPool\bin\Debug\ThreadPool.pdb
 C:\Users\Henrique\source\repos\ProgrammingInCSharp\ThreadPool\obj\Debug\ThreadPool.exe
 C:\Users\Henrique\source\repos\ProgrammingInCSharp\ThreadPool\obj\Debug\ThreadPool.pdb
+C:\Users\henrique_domareski\projetos\ProgrammingInCSharp\ThreadPool\bin\Debug\ThreadPool.exe.config
+C:\Users\henrique_domareski\projetos\ProgrammingInCSharp\ThreadPool\obj\Debug\ThreadPool.exe
+C:\Users\henrique_domareski\projetos\ProgrammingInCSharp\ThreadPool\obj\Debug\ThreadPool.pdb
