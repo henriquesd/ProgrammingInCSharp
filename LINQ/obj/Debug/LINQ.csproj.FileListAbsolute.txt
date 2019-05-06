@@ -1,0 +1,5 @@
+C:\Users\henrique_domareski\projetos\ProgrammingInCSharp\LINQ\bin\Debug\LINQ.exe.config
+C:\Users\henrique_domareski\projetos\ProgrammingInCSharp\LINQ\bin\Debug\LINQ.exe
+C:\Users\henrique_domareski\projetos\ProgrammingInCSharp\LINQ\bin\Debug\LINQ.pdb
+C:\Users\henrique_domareski\projetos\ProgrammingInCSharp\LINQ\obj\Debug\LINQ.exe
+C:\Users\henrique_domareski\projetos\ProgrammingInCSharp\LINQ\obj\Debug\LINQ.pdb

@@ -3,3 +3,4 @@ C:\Users\henrique_domareski\projetos\ProgrammingInCSharp\Indexers\bin\Debug\Inde
 C:\Users\henrique_domareski\projetos\ProgrammingInCSharp\Indexers\bin\Debug\Indexers.pdb
 C:\Users\henrique_domareski\projetos\ProgrammingInCSharp\Indexers\obj\Debug\Indexers.exe
 C:\Users\henrique_domareski\projetos\ProgrammingInCSharp\Indexers\obj\Debug\Indexers.pdb
+C:\Users\henrique_domareski\projetos\ProgrammingInCSharp\Indexers\obj\Debug\Indexers.csprojResolveAssemblyReference.cache

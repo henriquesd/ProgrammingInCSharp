@@ -43,6 +43,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generics", "Generics\Generi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Indexers", "Indexers\Indexers.csproj", "{BBABFC7C-E3FB-4665-91DF-6E18FFDC84ED}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQ", "LINQ\LINQ.csproj", "{4D53E974-A02B-490C-96D8-EDEA82D6EEBA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -129,6 +131,10 @@ Global
 		{BBABFC7C-E3FB-4665-91DF-6E18FFDC84ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BBABFC7C-E3FB-4665-91DF-6E18FFDC84ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BBABFC7C-E3FB-4665-91DF-6E18FFDC84ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D53E974-A02B-490C-96D8-EDEA82D6EEBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D53E974-A02B-490C-96D8-EDEA82D6EEBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D53E974-A02B-490C-96D8-EDEA82D6EEBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D53E974-A02B-490C-96D8-EDEA82D6EEBA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
