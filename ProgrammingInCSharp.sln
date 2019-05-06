@@ -37,6 +37,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Override", "Override\Overri
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interface", "Interface\Interface.csproj", "{82116934-2CC4-4296-AD2D-A544784D7F4E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExplicitInterfaceImplementation", "ExplicitInterfaceImplementation\ExplicitInterfaceImplementation.csproj", "{9E25703E-88E0-41E7-8E36-3508B067EE76}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +113,10 @@ Global
 		{82116934-2CC4-4296-AD2D-A544784D7F4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{82116934-2CC4-4296-AD2D-A544784D7F4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{82116934-2CC4-4296-AD2D-A544784D7F4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E25703E-88E0-41E7-8E36-3508B067EE76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E25703E-88E0-41E7-8E36-3508B067EE76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E25703E-88E0-41E7-8E36-3508B067EE76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E25703E-88E0-41E7-8E36-3508B067EE76}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
