@@ -1,0 +1,5 @@
+C:\Users\henrique_domareski\projetos\ProgrammingInCSharp\Generics\bin\Debug\Generics.exe.config
+C:\Users\henrique_domareski\projetos\ProgrammingInCSharp\Generics\bin\Debug\Generics.exe
+C:\Users\henrique_domareski\projetos\ProgrammingInCSharp\Generics\bin\Debug\Generics.pdb
+C:\Users\henrique_domareski\projetos\ProgrammingInCSharp\Generics\obj\Debug\Generics.exe
+C:\Users\henrique_domareski\projetos\ProgrammingInCSharp\Generics\obj\Debug\Generics.pdb
