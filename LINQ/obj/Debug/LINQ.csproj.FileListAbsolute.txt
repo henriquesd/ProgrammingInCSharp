@@ -3,3 +3,6 @@ C:\Users\henrique_domareski\projetos\ProgrammingInCSharp\LINQ\bin\Debug\LINQ.exe
 C:\Users\henrique_domareski\projetos\ProgrammingInCSharp\LINQ\bin\Debug\LINQ.pdb
 C:\Users\henrique_domareski\projetos\ProgrammingInCSharp\LINQ\obj\Debug\LINQ.exe
 C:\Users\henrique_domareski\projetos\ProgrammingInCSharp\LINQ\obj\Debug\LINQ.pdb
+C:\Users\Henrique\source\repos\ProgrammingInCSharp\LINQ\bin\Debug\LINQ.exe.config
+C:\Users\Henrique\source\repos\ProgrammingInCSharp\LINQ\obj\Debug\LINQ.exe
+C:\Users\Henrique\source\repos\ProgrammingInCSharp\LINQ\obj\Debug\LINQ.pdb

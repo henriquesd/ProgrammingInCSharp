@@ -1,0 +1,6 @@
+C:\Users\Henrique\source\repos\ProgrammingInCSharp\Reflection\bin\Debug\Reflection.exe.config
+C:\Users\Henrique\source\repos\ProgrammingInCSharp\Reflection\bin\Debug\Reflection.exe
+C:\Users\Henrique\source\repos\ProgrammingInCSharp\Reflection\bin\Debug\Reflection.pdb
+C:\Users\Henrique\source\repos\ProgrammingInCSharp\Reflection\obj\Debug\Reflection.csprojResolveAssemblyReference.cache
+C:\Users\Henrique\source\repos\ProgrammingInCSharp\Reflection\obj\Debug\Reflection.exe
+C:\Users\Henrique\source\repos\ProgrammingInCSharp\Reflection\obj\Debug\Reflection.pdb
