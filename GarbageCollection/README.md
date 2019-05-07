@@ -123,7 +123,7 @@ Diposal
 
 -------------------------------------------------------------------------------------------------------------
 
-Forcing Garbage Collection
+### Forcing Garbage Collection
 - In most cases, let the Garbage Collector do its thing
 - For a periodic activity it may make sense to force the collector to run:
 	- Windows Serrvice
@@ -140,7 +140,7 @@ GC.Collect();
 	- Implement IDisposable
 
 
-Disposable Objects
+### Disposable Objects
 - Some objects need explicit code to release resources
 - The IDisposable interface marks that these types implement the Dispose method
 - The simple dispose pattern works well for simple scenarios and sealed types
@@ -159,6 +159,67 @@ Disposable Objects
 			// release resources
 		}
 	}
+
+
+### Advanced Dispose Pattern
+- Use for any non-trivial disposable object
+
+	public class AdvancedDemo : IDisposable
+	{
+		public void Dispose()
+		{
+			Dispose(true);
+			GC.SuppressFinalize(this);
+		}
+
+		protected virtual void Dispose(bool disposing)
+		{
+			if (disposing)
+			{
+				// release managed resources
+			}
+			// release unmanaged resources
+		}
+
+		~AdvancedDemo()
+		{
+			Dispose(false);
+		}
+	}
+
+
+
+### Dispose versus Close versus Stop
+- Close
+	- May be functionally the same as Dispose
+	- May be a subset of the Dispose functionality
+- A closed object may be reopened
+	- IDbConnection
+- Stop is similar to Close
+	- May be restarted
+	- Timer, etc.
+
+If you disposed it's destroyed.
+If you close, than you can reopen;
+If you stop, it maintain it's state, so you could start and comes back to where was exactly stopped
+
+
+### Memory Leaks
+- Despite having automatic memory management, it is still possible to create managed memory leaks
+- Objects that fall out of scope may be referenced by objects in scope, keeping them alive
+- Events can be a common source of memory leaks:
+	- Events can hold references to objects
+	- Solution! Unsubscribe from events proactively
+- Weak references can be used to avoid some memory leak scenarios
+
+
+### Weak References
+- Weak references create a reference that the Garbage Collector ignores
+- The Garbage Collector wil assume an object is eligible for collection if it is only referred to by weak references
+- To hold an object with only weak references, create a local variable referring to the weak reference value
+	- This prevents collection until the local variable is out of scope
+
+
 
 -------------------------------------------------------------------------------------------------------------
 Fonts:

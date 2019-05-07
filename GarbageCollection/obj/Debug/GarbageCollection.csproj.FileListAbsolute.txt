@@ -1,0 +1,5 @@
+C:\Users\Henrique\source\repos\ProgrammingInCSharp\GarbageCollection\bin\Debug\GarbageCollection.exe.config
+C:\Users\Henrique\source\repos\ProgrammingInCSharp\GarbageCollection\bin\Debug\GarbageCollection.exe
+C:\Users\Henrique\source\repos\ProgrammingInCSharp\GarbageCollection\bin\Debug\GarbageCollection.pdb
+C:\Users\Henrique\source\repos\ProgrammingInCSharp\GarbageCollection\obj\Debug\GarbageCollection.exe
+C:\Users\Henrique\source\repos\ProgrammingInCSharp\GarbageCollection\obj\Debug\GarbageCollection.pdb

@@ -47,6 +47,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQ", "LINQ\LINQ.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reflection", "Reflection\Reflection.csproj", "{C18854D3-A6FA-48A7-8C70-BD6544A10A73}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GarbageCollection", "GarbageCollection\GarbageCollection.csproj", "{3E2B0157-14CF-4E96-A855-18F09A325A4B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -141,6 +143,10 @@ Global
 		{C18854D3-A6FA-48A7-8C70-BD6544A10A73}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C18854D3-A6FA-48A7-8C70-BD6544A10A73}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C18854D3-A6FA-48A7-8C70-BD6544A10A73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E2B0157-14CF-4E96-A855-18F09A325A4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E2B0157-14CF-4E96-A855-18F09A325A4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E2B0157-14CF-4E96-A855-18F09A325A4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E2B0157-14CF-4E96-A855-18F09A325A4B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
