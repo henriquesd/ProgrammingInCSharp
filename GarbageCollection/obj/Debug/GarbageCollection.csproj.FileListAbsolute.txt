@@ -3,3 +3,6 @@ C:\Users\Henrique\source\repos\ProgrammingInCSharp\GarbageCollection\bin\Debug\G
 C:\Users\Henrique\source\repos\ProgrammingInCSharp\GarbageCollection\bin\Debug\GarbageCollection.pdb
 C:\Users\Henrique\source\repos\ProgrammingInCSharp\GarbageCollection\obj\Debug\GarbageCollection.exe
 C:\Users\Henrique\source\repos\ProgrammingInCSharp\GarbageCollection\obj\Debug\GarbageCollection.pdb
+C:\Users\henrique_domareski\projetos\ProgrammingInCSharp\GarbageCollection\bin\Debug\GarbageCollection.exe.config
+C:\Users\henrique_domareski\projetos\ProgrammingInCSharp\GarbageCollection\obj\Debug\GarbageCollection.exe
+C:\Users\henrique_domareski\projetos\ProgrammingInCSharp\GarbageCollection\obj\Debug\GarbageCollection.pdb
