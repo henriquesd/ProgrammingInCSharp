@@ -1,0 +1,6 @@
+C:\Users\henrique_domareski\projetos\ProgrammingInCSharp\Delegate\bin\Debug\Delegate.exe.config
+C:\Users\henrique_domareski\projetos\ProgrammingInCSharp\Delegate\obj\Debug\Delegate.csprojResolveAssemblyReference.cache
+C:\Users\henrique_domareski\projetos\ProgrammingInCSharp\Delegate\bin\Debug\Delegate.exe
+C:\Users\henrique_domareski\projetos\ProgrammingInCSharp\Delegate\bin\Debug\Delegate.pdb
+C:\Users\henrique_domareski\projetos\ProgrammingInCSharp\Delegate\obj\Debug\Delegate.exe
+C:\Users\henrique_domareski\projetos\ProgrammingInCSharp\Delegate\obj\Debug\Delegate.pdb

@@ -8,6 +8,18 @@ namespace Delegate
 
         static void Main(string[] args)
         {
+            Demo1();
+
+            Console.WriteLine("-----------------------------");
+
+            Demo2();
+
+            Console.ReadLine();
+        }
+
+        #region Demo 1
+        private static void Demo1()
+        {
             Test test = new Test();
             del d = test.AddNumbers;
             Console.WriteLine(d(3, 4));
@@ -17,9 +29,8 @@ namespace Delegate
 
             d = test.DoAnotherThing;
             Console.WriteLine(d(3, 4));
-
-            Console.ReadLine();
         }
+        #endregion
 
         public class Test
         {
@@ -38,5 +49,38 @@ namespace Delegate
                 return x + (y * 3);
             }
         }
+
+        #region Demo 2
+
+        private static void Demo2()
+        {
+            var processor = new PhotoProcessor();
+
+            var filters = new PhotoFilters();
+
+            PhotoProcessor.PhotoFilterHandler filterHandler = filters.ApplyBrightness;
+            filterHandler += filters.ApplyContrast;
+            filterHandler += RemoveRedEyeFilter;
+
+            processor.Process("photo.jpg", filterHandler);
+
+            Console.WriteLine("------------");
+
+            var processorWithAction = new PhotoProcessorAction();
+
+            Action<Photo> filterHandlerWithAction = filters.ApplyBrightness;
+            filterHandlerWithAction += filters.ApplyContrast;
+            filterHandlerWithAction += RemoveRedEyeFilter;
+
+            processorWithAction.ProccessAction("photo.jpg", filterHandlerWithAction);
+        }
+
+        // If I need a filter that was not released with the framework, I can create my own here;
+        static void RemoveRedEyeFilter(Photo photo)
+        {
+            Console.WriteLine("Apply RemoveRedEye");
+        }
+        #endregion
+
     }
 }

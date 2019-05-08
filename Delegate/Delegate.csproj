@@ -43,6 +43,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Photo.cs" />
+    <Compile Include="PhotoFilters.cs" />
+    <Compile Include="PhotoProcessor.cs" />
+    <Compile Include="PhotoProcessorAction.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

@@ -18,7 +18,7 @@ namespace Generics
             Console.ReadLine();
         }
 
-        #region Demo1
+        #region Demo 1
 
         private static void Demo1()
         {
