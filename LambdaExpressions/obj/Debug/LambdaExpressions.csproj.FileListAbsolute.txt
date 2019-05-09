@@ -1,0 +1,5 @@
+C:\Users\henrique_domareski\projetos\ProgrammingInCSharp\LambdaExpressions\bin\Debug\LambdaExpressions.exe.config
+C:\Users\henrique_domareski\projetos\ProgrammingInCSharp\LambdaExpressions\bin\Debug\LambdaExpressions.exe
+C:\Users\henrique_domareski\projetos\ProgrammingInCSharp\LambdaExpressions\bin\Debug\LambdaExpressions.pdb
+C:\Users\henrique_domareski\projetos\ProgrammingInCSharp\LambdaExpressions\obj\Debug\LambdaExpressions.exe
+C:\Users\henrique_domareski\projetos\ProgrammingInCSharp\LambdaExpressions\obj\Debug\LambdaExpressions.pdb
