@@ -28,9 +28,22 @@ Anatomy of a Query:
 - Define some conditions - where ...
 - Take the filtered output - select ...
 
+-------------------------------------------------------------------------------------------------------------
+
+What is LINQ?
+- Stands for: Language Integrated Query
+- Gives you the capability to query objects in C# natively
+
+With LINQ you can query:
+- Objects in memory, eg collections (LINQ to Objects)
+- Databases (LINQ to Entities)
+- XML (LINQ to XML)
+- ADO.NET Data Sets (LINQ to Data Sets)
+
 
 -------------------------------------------------------------------------------------------------------------
 Fonts:
 
 https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/linq/
 https://www.udemy.com/basics-of-linq-with-c-for-beginners/
+https://www.udemy.com/csharp-advanced/

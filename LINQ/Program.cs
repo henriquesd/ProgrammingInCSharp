@@ -24,7 +24,158 @@ namespace LINQ
 
             FilteringACollectionByTypeOfTheItemsInIt();
 
+            Console.WriteLine("-----------------------------");
+            Console.WriteLine("-----------------------------");
+            Console.WriteLine("-----------------------------");
+
+            ExampleWithAndWithoutLinq();
+
+            LinqSyntaxExample();
+
+            ExamplesExtensionMethods();
+
             Console.ReadLine();
+        }
+
+        private static void ExampleWithAndWithoutLinq()
+        {
+            var books = new BookRepository().GetBooks();
+
+            // without using LINQ:
+            var cheapBooksWithoutLinq = new List<Book>();
+            foreach (var book in books)
+            {
+                if (book.Price < 10)
+                    cheapBooksWithoutLinq.Add(book);
+            }
+
+            foreach (var book in cheapBooksWithoutLinq)
+                Console.WriteLine(book.Title + " " + book.Price);
+
+            Console.WriteLine("-----------------------------");
+
+            // with LINQ:
+            var cheapBooks = books.Where(b => b.Price < 10)
+                                  .OrderBy(b => b.Title);
+
+            foreach (var book in cheapBooks)
+                Console.WriteLine(book.Title + " " + book.Price);
+           
+            Console.WriteLine("-----------------------------");
+        }
+
+        private static void LinqSyntaxExample()
+        {
+            var books = new BookRepository().GetBooks();
+
+            // In terms of power and flexibility, the LINQ Extension Methods syntax is more powerfull than the LINQ Query Operators
+            // because internally, those keywords (from LINQ Query Operators) is translated to the LINQ Extension Methods;
+            // And in more complext scenarios, there are not keywords for every extension methods that you have on LINQ Extension Methods;
+            // But also in other scenarios like when you are doing it GroupBy or Grouping lists, the LINQ Query Operators syntax is more friendly and cleaner;
+            // So there is no right or wrong, it really depends on the situation and on your personal choice.
+
+            // LINQ Extension Methods (equivalent to LINQ Query Operators)
+            var cheapBooksStringList = books
+                                            .Where(b => b.Price < 10)
+                                            .OrderBy(b => b.Title)
+                                            .Select(b => b.Title);
+
+            foreach (var book in cheapBooksStringList)
+                Console.WriteLine(book);
+
+            Console.WriteLine("-----------------------------");
+
+            // LINQ Query Operators (equivalent to LINQ Extension Methods)
+            var cheaperBooksQueryOperators = from b in books
+                                             where b.Price < 10
+                                             orderby b.Title
+                                             select b;
+            // select b.Title;
+
+            foreach (var book in cheaperBooksQueryOperators)
+                Console.WriteLine(book.Title);
+
+            Console.WriteLine("-----------------------------");
+        }
+
+        private static void ExamplesExtensionMethods()
+        {
+            var books = new BookRepository().GetBooks();
+
+            // LINQ Extension Methods
+
+            // Single method expects that there must be one and only one object in your collection that satisfies this condition;
+            var bookSingle = books.Single(b => b.Title == "ASP.NET MVC");
+            Console.WriteLine(bookSingle.Title);
+
+            // If you are not sure if that object exist or not, you cans use SingleOrDefault; The difference is, if there are no
+            // objects matching the condition, default will be returned, wich in this case would be null;
+            // SingleOrDefault is safter to use because Single, if it cannot find any books that matches the given condition
+            // it throws an exception, whereas, SingleOrDefault returns none;
+            var bookSingleOrDefault = books.SingleOrDefault(b => b.Title == "ASP.NET MVC++");
+            Console.WriteLine(bookSingleOrDefault == null);
+
+            // this will crash:
+            // var bookError = books.Single(b => b.Title == "ASP.NET MVC++");
+
+            Console.WriteLine("-----------------------------");
+
+            // We also have a few other similar methods to Single, one of them is First;
+            // First is used to get the first object in a collection. Optionally, you can supply a predicate, the filter;
+            var bookFirst = books.First(b => b.Title == "C# Advanced Topics");
+            Console.WriteLine(bookFirst.Title + " " + bookFirst.Price);
+
+            // Similarly, we also have a FirstOrDefault, and this is similar to SingleOrDefault;
+            // So if there are no books that match this condition, this method returns null instead of throwing an exception;
+            var bookFirstOrDefault = books.FirstOrDefault(b => b.Title == "C# Advanced Topics++");
+            Console.WriteLine(bookFirstOrDefault == null);
+
+            Console.WriteLine("-----------------------------");
+
+            // We also have a method called Last or LastOrDefault
+            var bookLastOrDefault = books.LastOrDefault(b => b.Title == "C# Advanced Topics");
+            Console.WriteLine(bookLastOrDefault.Title + " " + bookLastOrDefault.Price);
+
+            Console.WriteLine("-----------------------------");
+
+            // Another useful link extension method is Skip and Take;
+            // These are used for paging data.
+            // With Skip you're saying skip x records or x objects and take y;
+            var pagedBooks = books.Skip(2).Take(3);
+            foreach (var pagedBook in pagedBooks)
+            {
+                Console.WriteLine(pagedBook.Title);
+            }
+
+            Console.WriteLine("-----------------------------");
+
+
+            // We also have a bunch of aggregate functions like we have in SQL:
+
+            // For example, let's say you would like to count the number of books;
+            var count = books.Count();
+            Console.WriteLine(count);
+
+            Console.WriteLine("-----------------------------");
+
+            // We also have a useful method here called Max, which is used to return an object that as assumed max of something
+            // in a collection; For example, this will return a book that has the highest price:
+            var maxPrice = books.Max(b => b.Price);
+            Console.WriteLine(maxPrice);
+
+            // Similarly, we can have minimum price:
+            var minPrice = books.Min(b => b.Price);
+            Console.WriteLine(minPrice);
+
+            // We also have Sum;
+            // For example, if you would like to sum this collection based on the price of books:
+            var totalPrices = books.Sum(b => b.Price);
+            Console.WriteLine(totalPrices);
+
+            var averagePrice = books.Average(b => b.Price);
+            Console.WriteLine(averagePrice);
+
+            Console.WriteLine("-----------------------------");
         }
 
         #region Select example
