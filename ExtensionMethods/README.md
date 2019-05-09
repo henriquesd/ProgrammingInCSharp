@@ -20,7 +20,16 @@ An extension method is actually a static method in a static class
 - The type of the first parameter is the type that will be extended
 
 -------------------------------------------------------------------------------------------------------------
+
+What are Extension Methods?
+
+Allow us to add methods to an existing class without:
+- changing its source code or,
+- creating a new class that inherits from it
+
+-------------------------------------------------------------------------------------------------------------
 Fonts:
 
 https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/extension-methods
 https://www.udemy.com/programming-in-microsoft-c-exam-70-483/
+https://www.udemy.com/csharp-advanced
