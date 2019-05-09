@@ -1,0 +1,6 @@
+C:\Users\henrique_domareski\projetos\ProgrammingInCSharp\Events\bin\Debug\Events.exe.config
+C:\Users\henrique_domareski\projetos\ProgrammingInCSharp\Events\obj\Debug\Events.csprojResolveAssemblyReference.cache
+C:\Users\henrique_domareski\projetos\ProgrammingInCSharp\Events\bin\Debug\Events.exe
+C:\Users\henrique_domareski\projetos\ProgrammingInCSharp\Events\bin\Debug\Events.pdb
+C:\Users\henrique_domareski\projetos\ProgrammingInCSharp\Events\obj\Debug\Events.exe
+C:\Users\henrique_domareski\projetos\ProgrammingInCSharp\Events\obj\Debug\Events.pdb

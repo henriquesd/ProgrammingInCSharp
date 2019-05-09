@@ -51,6 +51,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GarbageCollection", "Garbag
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LambdaExpressions", "LambdaExpressions\LambdaExpressions.csproj", "{F8653A70-40FA-4967-8B77-FAE99245E021}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Events", "Events\Events.csproj", "{3D17A5DD-B079-403D-AB3E-2DCA6ACF991D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -153,6 +155,10 @@ Global
 		{F8653A70-40FA-4967-8B77-FAE99245E021}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F8653A70-40FA-4967-8B77-FAE99245E021}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F8653A70-40FA-4967-8B77-FAE99245E021}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D17A5DD-B079-403D-AB3E-2DCA6ACF991D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D17A5DD-B079-403D-AB3E-2DCA6ACF991D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D17A5DD-B079-403D-AB3E-2DCA6ACF991D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D17A5DD-B079-403D-AB3E-2DCA6ACF991D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
