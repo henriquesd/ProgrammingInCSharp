@@ -24,8 +24,36 @@ asynchronous process is complete
 - In the meantime, control returns to the caller of the Async method
 - Async caller and Await method run simultaneously
 
+-------------------------------------------------------------------------------------------------------------
+
+Synchronous Program Execution
+- Program is executed line by line, one at a time.
+- When a function is called, program execution has to wait until the function returns. before it continues execution to the next line.
+
+
+Asynchronous Program Execution
+- When a function is called, program execution continues to the next line, without waiting for the function to complete.
+
+
+So what's the difference?
+- Asynchronous programming improves responsiveness.
+
+When to use asynchronous?
+- Acessing the Web
+- Working with files and databases
+- Working with images
+
+How do we do that?
+- Traditional approaches:
+	- Multi-threading
+	- Callbacks
+- New approach since .NET 4.5
+	- Async / Await
+
+
 
 -------------------------------------------------------------------------------------------------------------
-Font:
+Fonts:
 
 https://www.udemy.com/programming-in-microsoft-c-exam-70-483/
+https://www.udemy.com/csharp-advanced/
