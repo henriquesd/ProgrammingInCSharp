@@ -1,0 +1,6 @@
+C:\Users\henrique_domareski\projetos\ProgrammingInCSharp\Dynamic\bin\Debug\Dynamic.exe.config
+C:\Users\henrique_domareski\projetos\ProgrammingInCSharp\Dynamic\bin\Debug\Dynamic.exe
+C:\Users\henrique_domareski\projetos\ProgrammingInCSharp\Dynamic\bin\Debug\Dynamic.pdb
+C:\Users\henrique_domareski\projetos\ProgrammingInCSharp\Dynamic\obj\Debug\Dynamic.csprojResolveAssemblyReference.cache
+C:\Users\henrique_domareski\projetos\ProgrammingInCSharp\Dynamic\obj\Debug\Dynamic.exe
+C:\Users\henrique_domareski\projetos\ProgrammingInCSharp\Dynamic\obj\Debug\Dynamic.pdb

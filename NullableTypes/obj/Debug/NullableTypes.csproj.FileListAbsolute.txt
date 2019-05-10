@@ -3,3 +3,6 @@ C:\Users\Henrique\source\repos\ProgrammingInCSharp\NullableTypes\bin\Debug\Nulla
 C:\Users\Henrique\source\repos\ProgrammingInCSharp\NullableTypes\bin\Debug\NullableTypes.pdb
 C:\Users\Henrique\source\repos\ProgrammingInCSharp\NullableTypes\obj\Debug\NullableTypes.exe
 C:\Users\Henrique\source\repos\ProgrammingInCSharp\NullableTypes\obj\Debug\NullableTypes.pdb
+C:\Users\henrique_domareski\projetos\ProgrammingInCSharp\NullableTypes\bin\Debug\NullableTypes.exe.config
+C:\Users\henrique_domareski\projetos\ProgrammingInCSharp\NullableTypes\obj\Debug\NullableTypes.exe
+C:\Users\henrique_domareski\projetos\ProgrammingInCSharp\NullableTypes\obj\Debug\NullableTypes.pdb
