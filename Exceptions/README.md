@@ -8,7 +8,13 @@ In .NET, an exception is an object that inherits from the System.Exception class
 The exception is passed up the stack until the application handles it or the program terminates.
 
 -------------------------------------------------------------------------------------------------------------
+
+In C# we can use exception handling to deal with unexpected or exceptional situations that arise when a program is running.
+
+
+-------------------------------------------------------------------------------------------------------------
 Font:
 
 https://www.udemy.com/programming-in-microsoft-c-exam-70-483
 https://docs.microsoft.com/en-us/dotnet/standard/exceptions/
+https://www.udemy.com/csharp-advanced/
